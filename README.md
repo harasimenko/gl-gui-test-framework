@@ -1,0 +1,1 @@
+This is project contains tests that opens Google search page in different browsers
